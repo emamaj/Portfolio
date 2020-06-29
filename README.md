@@ -11,6 +11,9 @@ My name is Edyta Majdziak.I am an environmental science engineer. I have started
 - Finding uniqe CSS Selectors and xPath
 - GIT / GIThub
 # Courses
+[Github dla Testerów](https://jaktestowac.pl/git/)
+[Github](/home/ps-trakotor/Dokumenty/Moje dokumenty)
+[Test Automation Foundations](/home/ps-trakotor/Dokumenty/Moje dokumenty)
 
 # Certificates
 
