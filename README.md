@@ -11,13 +11,24 @@ My name is Edyta Majdziak.I am an environmental science engineer. I have started
 - Finding uniqe CSS Selectors and xPath
 - GIT / GIThub
 # Courses
-[Github dla Testerów](https://jaktestowac.pl/git/)
-[Github](/home/ps-trakotor/Dokumenty/Moje dokumenty)
-[Test Automation Foundations](/home/ps-trakotor/Dokumenty/Moje dokumenty)
+- [Github dla Testerów](https://jaktestowac.pl/git/)
+- [Github Udemy](https://www.udemy.com/course/kurs-git-i-github-od-podstaw/learn/lecture/14058733?start=0#overview)
+- [Test Automation Foundations Linkedin](https://www.linkedin.com/learning/test-automation-foundations/build-a-foundation-of-test-automation)
+- [Podstawy testów automatycznych w Selenium jakT                                                                                       estowac.pl](https://jaktestowac.pl/automaty/)
+- [XPath jakTestowac.pl](https://jaktestowac.pl/xpath/)
+
 
 # Certificates
+- [Github](/home/ps-trakotor/Dokumenty/Moje dokumenty)
+- [Test Automation Foundations](/home/ps-trakotor/Dokumenty/Moje dokumenty)
+
 
 # Books
+- K. Zmitrowicz - Tester Oprogramowania; Przygotowanie do egzaminu
+- R. Smilgin - Zawód Teser. Od decyzji do zdobycia doświadczenia
+- A. Sweigrart - Automatyzacja nudnych zadań z Pythonem
+- A. Kierzkowski, M.Gawryszewski - Python Ćwiczenia praktyczne
+
 # Something about my Python work
 # Something about test case examples
 # My bugs reports
