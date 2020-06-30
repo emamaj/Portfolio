@@ -28,7 +28,7 @@ My name is Edyta Majdziak.I am an environmental science engineer. I have started
 # Books
 - K. Zmitrowicz - Tester Oprogramowania; Przygotowanie do egzaminu
 - R. Smilgin - Zawód Teser. Od decyzji do zdobycia doświadczenia
-- A. Sweigrart - Automatyzacja nudnych zadań z Pythonem
+- A. Sweigrart - Automatyzacja nudnych zadań z Pythonem (pending)
 - A. Kierzkowski, M.Gawryszewski - Python Ćwiczenia praktyczne
 
 # First Selenium Tests created on Random Website
